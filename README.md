@@ -2,8 +2,8 @@
 Machine learning project for predicting fatigue levels from dataset features. Includes data preprocessing, regression models (Linear Regression, Decision Trees, etc.), cross-validation, and evaluation using Mean Squared Error. Implemented in Python with scikit-learn.
 
 ## Project Structure
-- `Untitled12.ipynb` : Main Jupyter notebook with data preprocessing, model training, and evaluation.
-- `data.csv` : Dataset containing features and target variable (`Fatigue`).
+- `code.ipynb` : Main Jupyter notebook with data preprocessing, model training, and evaluation.
+- `Fatigue Dataset for Steel.csv` : Dataset containing features and target variable (`Fatigue`). (Credit to NIMS Japan)
 
 ## Features
 - Data preprocessing and cleaning
